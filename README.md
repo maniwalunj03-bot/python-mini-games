@@ -19,7 +19,7 @@ A collection of beginner-friendly Python console games created while practicing 
 python hangman.py
 python rock_paper_scissors.py
 
-What I Learned
+## 🧠 What I Learned
 
 While building these mini games, I strengthened my understanding of:
 
