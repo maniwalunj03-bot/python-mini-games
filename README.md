@@ -14,11 +14,6 @@ A collection of beginner-friendly Python console games created while practicing 
 - Python 3.x
 - IDE: Spyder (Anaconda)
 
-## 🚀 How to Run
-```bash
-python hangman.py
-python rock_paper_scissors.py
-
 ## 🧠 What I Learned
 
 While building these mini games, I strengthened my understanding of:
@@ -40,3 +35,8 @@ While building these mini games, I strengthened my understanding of:
 ✅ Uploading and organizing a project on GitHub
 
 These small projects helped me apply programming concepts in a fun way and build confidence before moving into advanced topics like data science, ML, and PyTorch.
+
+## 🚀 How to Run
+```bash
+python hangman.py
+python rock_paper_scissors.py
