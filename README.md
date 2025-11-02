@@ -18,3 +18,25 @@ A collection of beginner-friendly Python console games created while practicing 
 ```bash
 python hangman.py
 python rock_paper_scissors.py
+
+What I Learned
+
+While building these mini games, I strengthened my understanding of:
+
+✅ Python basics (variables, loops, conditionals, functions)
+
+✅ User input handling and validating inputs
+
+✅ Random module usage for computer choices
+
+✅ String manipulation (updating letters in Hangman)
+
+✅ Game logic design and handling win/lose outcomes
+
+✅ Tracking scores and attempts using counters
+
+✅ Writing clean, readable, beginner-friendly code
+
+✅ Uploading and organizing a project on GitHub
+
+These small projects helped me apply programming concepts in a fun way and build confidence before moving into advanced topics like data science, ML, and PyTorch.
